@@ -21,3 +21,4 @@ También da formatos chileno al rut ingresado, sin validar, y cambia a mayuscula
 
 Al rellenar el formulario, y dar al boton generar, se escriben los nuevos datos en el pdf de plantilla, generando uno nuevo, y que se descarga al servidor para ser impreso mediante boton derecho -> imprimir.
 
+Aparte lleva un pequeño script, para controlar la cantidad de visitas al sitio, incrementando de 1 en 1 las visitas. Es una función php, que cambia el valor y lo va escribiendo en un archivo txt.
