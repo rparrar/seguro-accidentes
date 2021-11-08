@@ -1,0 +1,15 @@
+::-webkit-input-placeholder
+{
+    color:#4b00ff40 !important;
+}
+
+:-ms-input-placeholder
+{
+    color:red;
+}
+
+.form-label
+{
+    font-size:12px;
+    color:#28a745;
+}
