@@ -21,4 +21,8 @@ También da formatos chileno al rut ingresado, sin validar, y cambia a mayuscula
 
 Al rellenar el formulario, y dar al boton generar, se escriben los nuevos datos en el pdf de plantilla, generando uno nuevo, y que se descarga al servidor para ser impreso mediante boton derecho -> imprimir.
 
+Al ingresar a la dirección http donde esté subido el código, carga automáticamente el ultimo pdf generado, en un iframe a un costado del formulario.
+
+Está sólo con adaptación a pantalla de pc, maquetado básico con bootstrap, adaptado a una resolución de 1366 x 768.
+
 Aparte lleva un pequeño script, para controlar la cantidad de visitas al sitio, incrementando de 1 en 1 las visitas. Es una función php, que cambia el valor y lo va escribiendo en un archivo txt.
